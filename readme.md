@@ -19,6 +19,7 @@ https://arxiv.org/abs/2308.16532
 https://github.com/Matrix-ASC/DeLA_v2
 
 **Image Reconstruction**
+
 X-Restormer: A Comparative Study of Image Restoration Networks for General Backbone Network Design (ECCV 2024)
 
 Discusses task differences between various image restoration approaches.
