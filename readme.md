@@ -8,6 +8,7 @@ Covers general ideas of overparameterized deep learning.
 
 https://openreview.net/forum?id=42Au7FoD8F
 
+
 ***Point Clouds***
 
 **Decoupled Local Aggregation (2023) & DeLAv2 (2025)**
@@ -18,7 +19,8 @@ https://arxiv.org/abs/2308.16532
 
 https://github.com/Matrix-ASC/DeLA_v2
 
-**Image Reconstruction**
+
+***Image Reconstruction***
 
 **X-Restormer: A Comparative Study of Image Restoration Networks for General Backbone Network Design (ECCV 2024)**
 
