@@ -10,6 +10,12 @@ Covers general ideas of overparameterized deep learning.
 
 https://openreview.net/forum?id=42Au7FoD8F
 
+**DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network**
+
+Pretty interesting introduction to zero-shot NAS. Designing CNNs, but not quite CNN specific.
+
+https://arxiv.org/abs/2303.02165
+
 --
 
 ***Point Clouds***
